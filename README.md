@@ -10,7 +10,7 @@ This simple Python script provides functionality to extract archive files (ZIP a
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/CovetingAphid3/archive-extractor.git
+    git clone https://github.com/CovetingAphid3/Download-Manager.git
     cd archive-extractor
     ```
 
@@ -21,13 +21,13 @@ This simple Python script provides functionality to extract archive files (ZIP a
 
 3. **Run the Script:**
     ```bash
-    python archive_extractor.py
+    python download_manager.py
     ```
     Make sure to modify the `download_folder` variable in the script to point to your desired download location.
 
 ## Functionality
 
-The script, `archive_extractor.py`, defines the following functions:
+The script, `download_manager.py`, defines the following functions:
 
 ### `extract_archive(file_path, extract_folder) -> bool`
 
